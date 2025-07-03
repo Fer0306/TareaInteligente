@@ -25,6 +25,13 @@ Ideado como parte de la arquitectura inteligente de [BotellaControl](https://med
 
 ---
 
+## 🙋‍♂️ Autor
+**Fernando Flores Alvarado**  
+🔗 [LinkedIn](https://www.linkedin.com/in/fernando-flores-alvarado-2786b21b8/)  
+📖 [Ver más publicaciones en Medium](https://medium.com/@fernandofa0306)
+
+> “No todas las tareas deben ser perfectas, pero sí deben ser inteligentes.” 🧠✨
+
 ## 💻 Ejemplo de uso
 
 ```js
@@ -45,15 +52,3 @@ const tarea = new TareaInteligente({
 });
 
 tarea.iniciar();
-
-
----
-
-## 🙋‍♂️ Autor
-**Fernando Flores Alvarado**  
-🔗 [LinkedIn](https://www.linkedin.com/in/fernando-flores-alvarado-2786b21b8/)  
-📖 [Ver más publicaciones en Medium](https://medium.com/@fernandofa0306)
-
-> “No todas las tareas deben ser perfectas, pero sí deben ser inteligentes.” 🧠✨
-
----
