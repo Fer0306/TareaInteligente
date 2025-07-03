@@ -45,11 +45,6 @@ const tarea = new TareaInteligente({
 });
 
 tarea.iniciar();
----
-
-## 📄 Licencia
-MIT — puedes usar, modificar y compartir libremente.
-
 
 ```js
 
