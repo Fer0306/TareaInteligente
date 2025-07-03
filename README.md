@@ -56,3 +56,13 @@ tarea.iniciar();
 > “No todas las tareas deben ser perfectas, pero sí deben ser inteligentes.” 🧠✨
 
 ```
+
+```
+## 🚀 ¿Cómo probarlo?
+
+1. Descarga uno de los archivos `.js`
+2. Inserta el script en una página HTML o proyecto
+3. Asegúrate de tener una ruta de API simulada (por ejemplo con JSON Server o Mock API)
+4. Abre en navegador y revisa la consola
+
+```
