@@ -46,7 +46,7 @@ const tarea = new TareaInteligente({
 
 tarea.iniciar();
 
-```js
+```
 
 ## 🙋‍♂️ Autor
 **Fernando Flores Alvarado**  
