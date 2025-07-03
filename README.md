@@ -52,3 +52,18 @@ const tarea = new TareaInteligente({
 });
 
 tarea.iniciar();
+---
+
+## 📄 Licencia
+MIT — puedes usar, modificar y compartir libremente.
+
+---
+
+## 🙋‍♂️ Autor
+**Fernando Flores Alvarado**  
+🔗 [LinkedIn](https://www.linkedin.com/in/fernando-flores-alvarado-2786b21b8/)  
+📖 [Ver más publicaciones en Medium](https://medium.com/@fernandofa0306)
+
+> “No todas las tareas deben ser perfectas, pero sí deben ser inteligentes.” 🧠✨
+
+```
