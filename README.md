@@ -25,13 +25,6 @@ Ideado como parte de la arquitectura inteligente de [BotellaControl](https://med
 
 ---
 
-## 🙋‍♂️ Autor
-**Fernando Flores Alvarado**  
-🔗 [LinkedIn](https://www.linkedin.com/in/fernando-flores-alvarado-2786b21b8/)  
-📖 [Ver más publicaciones en Medium](https://medium.com/@fernandofa0306)
-
-> “No todas las tareas deben ser perfectas, pero sí deben ser inteligentes.” 🧠✨
-
 ## 💻 Ejemplo de uso
 
 ```js
@@ -57,7 +50,8 @@ tarea.iniciar();
 ## 📄 Licencia
 MIT — puedes usar, modificar y compartir libremente.
 
----
+
+```js
 
 ## 🙋‍♂️ Autor
 **Fernando Flores Alvarado**  
